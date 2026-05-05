@@ -3,14 +3,14 @@ body{
   background-color: #FFDB73;
 }
 header{ 
-  background-color: #D9AF32;
+  background-color: #E3B864;
   border-radius: 14px;
   padding: 10px;
 }
 h1{ 
   font-size: 100px;
   font-family: "Rubik Distressed", system-ui;
-  font-weight: 400;
+  font-weight: 200;
   font-style: normal;
-  background-color: #825F1F;
+  background-color: #876222;
 }
