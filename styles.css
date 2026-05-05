@@ -8,4 +8,6 @@ header{
       }
 h1{ 
   font-size: 100px;
- font-family: "Rubik Distressed", "Impact";
+  font-family: "Rubik Distressed", system-ui;
+  font-weight: 400;
+  font-style: normal;
