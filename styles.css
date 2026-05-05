@@ -13,7 +13,7 @@ section{
   padding: 5px;
 }
 h1{ 
-  font-size: 100px;
+  font-size: 80px;
   font-family: "Rubik Distressed", system-ui;
   font-weight: 100;
   font-style: normal;
@@ -21,14 +21,14 @@ h1{
   text-align: center;
 }
 h2{ 
-  font-size: 60px;
+  font-size: 50px;
   font-family: "DynaPuff", system-ui;
   font-weight: 50;
   font-style: bold;
   color: #876222;
   text-align: center;
 }
-p{font-size: 20px;
+p{font-size: 16px;
   font-family: "DynaPuff", system-ui;
   font-weight: 50;
   font-style: normal;
