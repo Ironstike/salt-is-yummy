@@ -4,13 +4,15 @@ body{
 }
 header{ 
   background-color: #F2C44E;
-  border-radius: 14px;
+  border-radius: 30px;
   padding: 5px;
+  margin: 5px;
 }
 section{ 
   background-color: #F2C44E;
-  border-radius: 14px;
+  border-radius: 30px;
   padding: 5px;
+  margin: 5px;
 }
 h1{ 
   font-size: 80px;
