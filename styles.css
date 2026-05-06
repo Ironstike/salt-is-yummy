@@ -21,7 +21,7 @@ section{
   bottom:0;
 h1{ 
   font-size: 80px;
-  font-family: "Rubik Distressed", system-ui;
+  font-family: "Rubik Distressed", "Chalkduster", fantasy;
   font-weight: 100;
   font-style: normal;
   color: #876222;
@@ -29,14 +29,14 @@ h1{
 }
 h2{ 
   font-size: 50px;
-  font-family: "DynaPuff", system-ui;
+  font-family: "DynaPuff", "Comic Sans", cursive;
   font-weight: 50;
   font-style: bold;
   color: #876222;
   text-align: center;
 }
 p{font-size: 16px;
-  font-family: "DynaPuff", system-ui;
+  font-family: "DynaPuff", "Comic Sans", cursive;
   font-weight: 50;
   font-style: normal;
   color: #876222;
