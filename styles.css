@@ -21,9 +21,8 @@ section {
 #water {
  clip-path: polygon(42% 89%, 52% 84%, 59% 89%, 67% 88%, 73% 82%, 82% 86%, 92% 84%, 100% 77%, 100% 100%, 0% 100%, 0% 94%, 5% 91%, 13% 94%, 20% 92%, 23% 86%, 33% 90%);
   background-color: #14B1FF;
-  bottom: 0;
   width: 100%;
-  height: 300px;
+  height: 500px;
 }
 
 h1 {
