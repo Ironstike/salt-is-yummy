@@ -51,3 +51,8 @@ p {
   color: #876222;
   text-align: center;
 }
+img {
+   justify-content: center;
+   border-radius: 35px;
+   margin: 10px;
+}
