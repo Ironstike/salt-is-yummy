@@ -52,7 +52,7 @@ p {
   text-align: center;
 }
 img {
-   justify-content: center;
+   align-items: center;
    border-radius: 35px;
    margin: 10px;
 }
