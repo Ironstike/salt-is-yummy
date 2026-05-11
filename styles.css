@@ -61,7 +61,13 @@ a{
   background-color: #14B1FF;
   border-radius: 35px;
   font-size: 20px;
-  color: black;
+  color: blue;
    font-family: "DynaPuff", "Comic Sans MS", cursive;
 }
-selected
+#selected{
+  background-color: ##14a5ff;
+  border-radius: 35px;
+  font-size: 25px;
+  color: #blue;
+   font-family: "DynaPuff", "Comic Sans MS", cursive;
+}
